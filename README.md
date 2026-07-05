@@ -41,4 +41,5 @@ prepaid portal
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:chandra.tomar09@gmail.com)
 
 💼 Open to opportunities globally
+
 India · Europe · Dubai · USA · Hybrid · Remote
