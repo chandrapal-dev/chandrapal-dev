@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandrapal Singh Tomar
 
-<!--
-**chandrapal-dev/chandrapal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Frontend Engineer | Aviation & Fintech
 
-Here are some ideas to get you started:
+🚀 Currently building enterprise React applications 
+for **Emirates Airlines** and **SITA Airways**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+React.js · Next.js · TypeScript · Redux · 
+Micro Frontends · GraphQL · Tailwind CSS
+
+**AI & Tools**  
+LangChain.js · OpenAI API · GitHub Copilot · 
+Vercel AI SDK
+
+**Currently Learning**
+Node.js · Express · MongoDB · System Design
+
+---
+
+### 📌 Featured Work
+
+🛫 **Emirates BELT** — Baggage management 
+microfrontend platform serving millions of passengers
+
+✈️ **SITA Baggage Genie** — AI-powered airline 
+chatbot with Zendesk integration
+
+💳 **Network International** — Secure fintech 
+prepaid portal
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/chandrapal-singh-tomar)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:chandra.tomar09@gmail.com)
+
+💼 **Open to Remote opportunities globally**
+India · Europe · UAE · USA
