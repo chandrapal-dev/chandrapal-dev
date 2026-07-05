@@ -40,5 +40,4 @@ prepaid portal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/chandrapal-singh-tomar)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:chandra.tomar09@gmail.com)
 
-💼 **Open to Remote opportunities globally**
-India · Europe · UAE · USA
+💼 **Open to opportunities globally**
